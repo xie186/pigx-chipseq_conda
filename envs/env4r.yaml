@@ -1,0 +1,27 @@
+channels:
+ - conda-forge
+ - r
+ - bioconda 
+ - plotly
+dependencies:
+ - r=3.6.1
+ - r-argparser
+ - bioconductor-biocparallel
+ - bioconductor-biostrings
+ - bioconductor-chipseq
+ - r-data.table
+ - r-dplyr
+ - bioconductor-genomation
+ - bioconductor-genomicalignments
+ - bioconductor-genomicranges
+ - bioconductor-rsamtools
+ - bioconductor-rtracklayer
+ - bioconductor-s4vectors
+ - r-stringr
+ - r-jsonlite
+ - r-heatmaply
+ - r-htmlwidgets
+ - r-ggplot2
+ - r-ggrepel
+ - plotly
+ - r-rmarkdown

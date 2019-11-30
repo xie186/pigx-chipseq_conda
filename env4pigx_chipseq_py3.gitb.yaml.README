@@ -1,0 +1,2 @@
+conda env export --no-build |grep -v 'prefix' |grep -v '^name' > env4pigx_chipseq_py3.gitb.yaml
+
